@@ -19,9 +19,6 @@ Trago aqui alguns fatos sobre mim:
 
 ## Bibliotecas e Frameworks
 
-![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
-
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 
 
 ## Linguagens de Marcação e Estilo
