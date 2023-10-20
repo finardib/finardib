@@ -1,8 +1,6 @@
 # Bruna Finardi
 
-## Hello World!! ☕
-
-Trago aqui alguns fatos sobre mim:
+Alguns fatos sobre mim:
 
 🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas da Informação na Faculdade das Américas - **FAM** .
 
@@ -11,14 +9,6 @@ Trago aqui alguns fatos sobre mim:
 🚀 Viciada em Bootcamps.
 
 🌱 **Fun Fact**: Já atuei desenvolvendo pesquisas na área de Microbiologia e também lecionando aulas de Ciências e Biologia.
-
-
-## Linguagens de Programação
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-## Bibliotecas e Frameworks
-
 
 
 ## Linguagens de Marcação e Estilo
