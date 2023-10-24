@@ -38,6 +38,6 @@ Alguns fatos sobre mim:
 
 ## **Conecte-se comigo!**
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)[Link](https://www.linkedin.com/in/brunafinardi/) 
+[Link LinkedIn](https://www.linkedin.com/in/brunafinardi/) 
 
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)[Link](https://www.instagram.com/finardi_b/)
+[Link Instagram](https://www.instagram.com/finardi_b/)
