@@ -12,7 +12,7 @@ Alguns fatos sobre mim:
 
 ## Linguagens de Programação
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=finardib&hide=c#,javascript&theme=tokyonight
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=finardib&theme=tokyonight)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
