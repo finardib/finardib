@@ -35,6 +35,7 @@ Alguns fatos sobre mim:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=finardib&show_icons=true&theme=dark)
 
 ## **Conecte-se comigo!**
 
