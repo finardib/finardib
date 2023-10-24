@@ -26,11 +26,12 @@ Alguns fatos sobre mim:
 
 ## Linguagens de Marcação e Estilo
 
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+## Sistemas Operacionais
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
 ## **Conecte-se comigo!**
