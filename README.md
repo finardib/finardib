@@ -1,14 +1,10 @@
 # Bruna Finardi
 
-Alguns fatos sobre mim:
 
 🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas da Informação na Faculdade das Américas - **FAM** .
 
-🐞 Entusiasta em testes.
+🐞 Estagiária QA na Vivo (Telefônica)
 
-🚀 Viciada em Bootcamps.
-
-🌱 **Fun Fact**: Já atuei desenvolvendo pesquisas na área de Microbiologia e também lecionando aulas de Ciências e Biologia.
 
 ## Linguagens de Programação
 
