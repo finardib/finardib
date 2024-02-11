@@ -10,7 +10,7 @@
 
 ## Professional Experience
 
-- Quality Assurance Intern at ![Vivo (Telefônica)](https://img.shields.io/badge/Vivo-Telef%C3%B4nica-red)
+- Quality Assurance Intern at Vivo (Telefônica)
 
 ---
 
