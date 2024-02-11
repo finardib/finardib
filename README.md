@@ -10,7 +10,7 @@
 
 ## Professional Experience
 
-- Quality Assurance Intern at Vivo (Telefônica)
+- Quality Assurance Intern at Vivo (Telefônica): 01/2024 - Present
 
 ---
 
@@ -30,4 +30,4 @@
 
 ---
 
-![Bruna Finardi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=finardi
+![Bruna Finardi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=finardib&show_icons=true&theme=dark)
