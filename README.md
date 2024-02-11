@@ -4,7 +4,9 @@
 
 ## Education
 
-- Bachelor of Information Systems Analysis and Development, Faculdade das Américas (FAM)
+- Technologist in System Analysis, Faculdade das Américas (FAM)
+- Bachelor's Degree in Biological Sciences, Federal Technological University of Paraná (UTFPR)
+- Specialization in Clinical Analysis and Microbiology, Faculdade Venda Nova do Imigrante (FAVENI)
 
 ---
 
