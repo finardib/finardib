@@ -20,7 +20,7 @@
 
 - **Programming Languages**: ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
   
-- **Frameworks**: ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white), ![Power Bi](https://img.shields.io/badge/POWER_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+- **Frameworks**: ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white), ![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
   
 - **Databases**: ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
   
